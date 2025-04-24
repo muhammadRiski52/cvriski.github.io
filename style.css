@@ -23,6 +23,9 @@ body{
     background: linear-gradient(#ffffff 0%, #ffffffe5 40%, #f7f7f700 100%);
     padding-bottom: 200px;
 }
+.row{
+    padding: 0px 20px;
+}
 .footer{
     background-color: #ffffff;
     padding-bottom: 20px;
@@ -40,7 +43,7 @@ body{
     padding-top: 100px;
 }
 .biodata{
-    padding-top: 100px;
+    padding-top: 55px;
 }
 .profile{
     padding-top: 100px;
